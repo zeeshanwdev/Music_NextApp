@@ -1,7 +1,6 @@
 "use client";
 import React from "react";
 import { StickyScroll } from "./ui/stickyScrollReveal";
-import Image from "next/image";
 
 const musicSchoolContent = [
     {
