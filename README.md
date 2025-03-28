@@ -1,4 +1,4 @@
-Where My All Components
+Here Are All Components
 1.  Navbar Menu                                              -> Navbar.tsx
 2.  Spotlight, Moving Border                                 -> HeroSection.tsx
 3.  Background Gradient                                      -> FeatureCourses.tsx
